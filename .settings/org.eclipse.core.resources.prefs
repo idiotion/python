@@ -1,9 +1,14 @@
 eclipse.preferences.version=1
+encoding/README.md=UTF-8
 encoding/func.py=utf-8
+encoding/learnfunc.py=utf-8
 encoding/learning.py=utf-8
+encoding/parse_html.py=UTF-8
 encoding/parse_weather.py=utf-8
 encoding/parse_xml.py=utf-8
 encoding/pytest.py=utf-8
 encoding/reglike.py=utf-8
 encoding/task_worker.py=utf-8
 encoding/test_alone.py=utf-8
+encoding/triangles.py=UTF-8
+encoding/urlib.py=UTF-8
