@@ -1,0 +1,354 @@
+2016-02-18 16:36:41 2016-02-18 16:36:41 G:\Github\python\etlpython\testlog.pytestlog.py[line:41] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 16:36:41 2016-02-18 16:36:41 G:\Github\python\etlpython\testlog.pytestlog.py[line:41] testlog(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 16:45:35 2016-02-18 16:45:35 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 16:45:35 2016-02-18 16:45:35 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] testlog(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:19:35 2016-02-18 17:19:35 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:19:35 2016-02-18 17:19:35 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] testlog(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:19:44 2016-02-18 17:19:44 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:19:44 2016-02-18 17:19:44 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] testlog(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:19:49 2016-02-18 17:19:49 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:19:55 2016-02-18 17:19:55 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:20:33 2016-02-18 17:20:33 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:20:33 2016-02-18 17:20:33 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:22:52 2016-02-18 17:22:52 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:22:52 2016-02-18 17:22:52 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:23:12 2016-02-18 17:23:12 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:23:12 2016-02-18 17:23:12 G:\Github\python\etlpython\testlog.pytestlog.py[line:43] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:23:37 2016-02-18 17:23:37 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:26:54 2016-02-18 17:26:54 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:27:05 2016-02-18 17:27:05 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+2016-02-18 17:27:16 2016-02-18 17:27:16 G:\Github\python\etlpython\testlog.pytestlog.py[line:42] main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+619642016-02-18 17:28:41 2016-02-18 17:28:41main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCCmain(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+230562016-02-18 17:29:03 2016-02-18 17:29:03main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+485882016-02-18 17:29:10 2016-02-18 17:29:10main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+19308 2016-02-18 17:29:40 2016-02-18 17:29:40main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P10012 2016-02-18 17:29:53 2016-02-18 17:29:53main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P21516 2016-02-18 17:30:16 2016-02-18 17:30:16 main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC 
+P41632 2016-02-18 17:31:46 2016-02-18 17:31:46 3 
+P52292 2016-02-18 17:31:50 2016-02-18 17:31:50 3 
+P3012 2016-02-18 17:33:07 2016-02-18 17:33:17 10000 
+P24248 2016-02-18 17:34:45 2016-02-18 17:34:50 5003 
+P18608 2016-02-18 17:35:19 2016-02-18 17:35:24 5004ms
+P41984  2016-02-18 19:55:54 5004ms
+P71372  2016-02-18 19:56:05 5001ms
+P59792  2016-02-18 20:07:01 5001ms main(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P62880  2016-02-18 20:07:27 5003ms (['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P43624  2016-02-18 20:08:08 5003ms (['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P63692--2016-02-18 20:12:41--5003ms--(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P69964|2016-02-18 20:13:10|5002ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P9724|2016-02-18 20:20:06|5006ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P66104|2016-02-18 20:21:05|2003ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P11344|2016-02-18 20:23:20|2004ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P61148|2016-02-18 20:26:31|2003ms|(['testlog.py'],)|SUCC
+P43240|2016-02-18 20:27:50|2002ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P26516|2016-02-18 20:28:05|2003ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P26516|2016-02-18 20:28:05|2003ms|(['G:\\Github\\python\\etlpython\\testlog.py'],)|SUCC
+P47588|2016-02-18 20:47:37|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P47588|2016-02-18 20:47:37|2004ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P24072|2016-02-18 20:50:13|136ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 25, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P30904|2016-02-18 20:50:27|98ms|('testrunpython.py',)|SUCC
+P28380|2016-02-18 20:54:23|30ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 22, in main
+    myproc=subprocess.Popen('python '+args,stdout=subprocess.STDOUT,shell=True)
+  File "C:\Python27\lib\subprocess.py", line 672, in __init__
+    errread, errwrite) = self._get_handles(stdin, stdout, stderr)
+  File "C:\Python27\lib\subprocess.py", line 796, in _get_handles
+    c2pwrite = msvcrt.get_osfhandle(stdout)
+IOError: [Errno 9] Bad file descriptor
+
+P56692|2016-02-18 20:55:48|3ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 22, in main
+    myproc=subprocess.Popen('python '+args,stdout=subprocess.STDOUT,shell=True)
+  File "C:\Python27\lib\subprocess.py", line 672, in __init__
+    errread, errwrite) = self._get_handles(stdin, stdout, stderr)
+  File "C:\Python27\lib\subprocess.py", line 796, in _get_handles
+    c2pwrite = msvcrt.get_osfhandle(stdout)
+IOError: [Errno 9] Bad file descriptor
+
+P41396|2016-02-18 20:56:05|90ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    print myproc[0]
+TypeError: 'Popen' object does not support indexing
+
+P2736|2016-02-18 20:56:28|90ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    for i in myproc:
+TypeError: 'Popen' object is not iterable
+
+P4844|2016-02-18 20:58:12|95ms|('testrunpython.py',)|SUCC
+P32720|2016-02-18 20:58:24|95ms|('testrunpython.py',)|SUCC
+P28360|2016-02-18 20:58:38|114ms|('testrunpython.py',)|SUCC
+P25436|2016-02-18 20:59:22|114ms|('testrunpython.py',)|SUCC
+P26420|2016-02-18 20:59:56|2002ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P26420|2016-02-18 20:59:56|2002ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P9160|2016-02-18 21:00:31|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P9160|2016-02-18 21:00:31|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P9160|2016-02-18 21:00:31|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P9160|2016-02-18 21:00:31|2005ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P52376|2016-02-18 21:02:24|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P52376|2016-02-18 21:02:24|2005ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P52376|2016-02-18 21:02:24|2005ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P52376|2016-02-18 21:02:24|2006ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P20820|2016-02-18 21:02:55|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P20820|2016-02-18 21:02:55|2009ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P37692|2016-02-18 21:03:38|2001ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P37692|2016-02-18 21:03:38|2001ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P67660|2016-02-18 21:03:51|99ms|('testrunpython.py',)|SUCC
+P69852|2016-02-18 21:03:58|2002ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P69852|2016-02-18 21:03:58|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P42336|2016-02-18 21:04:08|103ms|('testrunpython.py',)|SUCC
+P38604|2016-02-18 21:04:20|151ms|('testrunpython.py',)|SUCC
+P40748|2016-02-18 21:04:37|121ms|('testrunpython.py',)|SUCC
+P28644|2016-02-18 21:04:46|152ms|('testrunpython.py',)|SUCC
+P16096|2016-02-18 21:04:51|108ms|('testrunpython.py',)|SUCC
+P28992|2016-02-18 21:05:48|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P28992|2016-02-18 21:05:48|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P24840|2016-02-18 21:07:17|2001ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P24840|2016-02-18 21:07:17|2003ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P14352|2016-02-18 21:07:25|2ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P14352|2016-02-18 21:07:25|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P20504|2016-02-18 21:10:31|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P20504|2016-02-18 21:10:31|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P19924|2016-02-18 21:10:34|2ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P19924|2016-02-18 21:10:34|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P30864|2016-02-18 21:10:37|112ms|('testrunpython.py',)|SUCC
+P16744|2016-02-18 21:10:57|90ms|('testrunpython.py',)|SUCC
+P36976|2016-02-18 21:11:15|1ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P36976|2016-02-18 21:11:15|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P61248|2016-02-18 21:12:24|127ms|('testrunpython.py',)|SUCC
+P8356|2016-02-18 21:13:19|4ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 22, in main
+    myproc=subprocess.Popen('python '+args,stdout=subprocess.STD_OUTPUT_HANDLE,shell=True)
+  File "C:\Python27\lib\subprocess.py", line 672, in __init__
+    errread, errwrite) = self._get_handles(stdin, stdout, stderr)
+  File "C:\Python27\lib\subprocess.py", line 796, in _get_handles
+    c2pwrite = msvcrt.get_osfhandle(stdout)
+IOError: [Errno 9] Bad file descriptor
+
+P31948|2016-02-18 21:13:41|5ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 22, in main
+    myproc=subprocess.Popen('python '+args,stdout=subprocess.STDOUT,shell=True)
+  File "C:\Python27\lib\subprocess.py", line 672, in __init__
+    errread, errwrite) = self._get_handles(stdin, stdout, stderr)
+  File "C:\Python27\lib\subprocess.py", line 796, in _get_handles
+    c2pwrite = msvcrt.get_osfhandle(stdout)
+IOError: [Errno 9] Bad file descriptor
+
+P34636|2016-02-18 21:13:52|5ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 29, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 22, in main
+    myproc,cc=subprocess.Popen('python '+args,stdout=subprocess.STDOUT,shell=True)
+  File "C:\Python27\lib\subprocess.py", line 672, in __init__
+    errread, errwrite) = self._get_handles(stdin, stdout, stderr)
+  File "C:\Python27\lib\subprocess.py", line 796, in _get_handles
+    c2pwrite = msvcrt.get_osfhandle(stdout)
+IOError: [Errno 9] Bad file descriptor
+
+P30668|2016-02-18 21:14:14|130ms|('testrunpython.py',)|SUCC
+P36988|2016-02-18 21:14:42|109ms|('testrunpython.py',)|SUCC
+P39432|2016-02-18 21:14:46|102ms|('testrunpython.py',)|SUCC
+P32856|2016-02-18 21:14:58|121ms|('testrunpython.py',)|SUCC
+P38932|2016-02-18 21:15:10|121ms|('testrunpython.py',)|SUCC
+P70256|2016-02-18 21:17:07|132ms|('testrunpython.py',)|SUCC
+P49364|2016-02-18 21:17:13|115ms|('testrunpython.py',)|SUCC
+P33080|2016-02-18 21:17:17|103ms|('testrunpython.py',)|SUCC
+P2516|2016-02-18 21:17:22|1ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P2516|2016-02-18 21:17:22|2ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P33376|2016-02-18 21:28:01|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P33376|2016-02-18 21:28:01|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P39172|2016-02-18 21:28:06|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P39172|2016-02-18 21:28:06|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P36824|2016-02-18 21:28:11|121ms|('testrunpython.py',)|SUCC
+P41436|2016-02-18 21:28:36|108ms|('testrunpython.py',)|SUCC
+P52992|2016-02-18 21:28:44|118ms|('testrunpython.py',)|SUCC
+P37472|2016-02-19 09:04:29|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P37472|2016-02-19 09:04:29|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P44600|2016-02-19 09:04:49|111ms|('testrunpython.py',)|SUCC
+P64300|2016-02-19 09:05:11|91ms|('testrunpython.py',)|SUCC
+P41308|2016-02-19 09:05:14|79ms|('testrunpython.py',)|SUCC
+P53740|2016-02-19 09:05:20|88ms|('testrunpython.py',)|SUCC
+P70124|2016-02-19 09:05:26|86ms|('testrunpython.py',)|SUCC
+P59372|2016-02-19 09:08:59|2ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P59372|2016-02-19 09:08:59|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P64636|2016-02-19 09:12:48|93ms|('testrunpython.py',)|SUCC
+P13552|2016-02-19 09:12:58|85ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 25, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P60984|2016-02-19 09:13:34|87ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P21004|2016-02-19 09:13:50|93ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise ''
+TypeError: exceptions must be old-style classes or derived from BaseException, not str
+
+P31336|2016-02-19 09:14:07|85ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P32104|2016-02-19 09:15:11|125ms|('testrunpython.py',)|SUCC
+P48116|2016-02-19 09:16:09|92ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P21584|2016-02-19 09:16:12|75ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P17764|2016-02-19 09:16:22|101ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P48996|2016-02-19 09:16:37|88ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P16092|2016-02-19 09:16:42|78ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+P27548|2016-02-19 09:25:47|88ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 27, in main
+    raise myproc.stderr.read()
+TypeError: exceptions must be old-style classes or derived from BaseException, not str
+
+P69780|2016-02-19 09:26:12|87ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 27, in main
+    raise IOError, myproc.stderr.read()
+IOError
+
+P31084|2016-02-19 09:26:35|184ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 27, in main
+    raise IOError, `myproc.stderr.read()`
+IOError: ''
+
+P15032|2016-02-19 09:27:44|95ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 28, in main
+    raise IOError, errmsg
+IOError: Traceback (most recent call last):
+  File "testrunpython.py", line 16, in <module>
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+
+P50408|2016-02-19 09:28:02|88ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 28, in main
+    raise IOError, errmsg
+IOError: Traceback (most recent call last):
+  File "testrunpython.py", line 16, in <module>
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+
+P42568|2016-02-19 09:28:05|75ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 28, in main
+    raise IOError, errmsg
+IOError: Traceback (most recent call last):
+  File "testrunpython.py", line 16, in <module>
+    raise
+TypeError: exceptions must be old-style classes or derived from BaseException, not NoneType
+
+
+P39948|2016-02-19 09:40:27|95ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 28, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 28, in main
+    raise IOError, errmsg
+IOError: Traceback (most recent call last):
+  File "testrunpython.py", line 16, in <module>
+    raise AssertionError,'hahahahaha'
+AssertionError: hahahahaha
+
+
+P43040|2016-02-19 09:46:32|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P43040|2016-02-19 09:46:32|3ms|(['G:\\Github\\python\\etlpython\\runpylog.py'],)|SUCC
+P30856|2016-02-19 09:46:39|98ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 26, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise IOError, errmsg
+IOError: Traceback (most recent call last):
+  File "testrunpython.py", line 16, in <module>
+    raise AssertionError,'hahahahaha'
+AssertionError: hahahahaha
+
+
+P26864|2016-02-19 09:48:21|87ms|('testrunpython.py',)|FAIL|Traceback (most recent call last):
+  File "G:\Github\python\etlpython\runpylog.py", line 26, in wrapper
+    res=func(*args, **kw)
+  File "G:\Github\python\etlpython\runpython.py", line 26, in main
+    raise IOError, errmsg
+IOError: Traceback (most recent call last):
+  File "testrunpython.py", line 16, in <module>
+    raise AssertionError,'hahahahaha'
+AssertionError: hahahahaha
+
+
+P57372|2016-02-19 09:48:36|95ms|('testrunpython.py',)|SUCC
+P52484|2016-02-19 09:51:12|98ms|('testrunpython.py',)|SUCC
+P46932|2016-02-19 09:51:13|77ms|('testrunpython.py',)|SUCC
+P41436|2016-02-19 09:51:14|78ms|('testrunpython.py',)|SUCC
+P9140|2016-02-19 16:50:37|186ms|('anal_log.py',)|SUCC
+P6296|2016-02-19 16:50:49|85ms|('anal_log.py',)|SUCC
+P548|2016-02-19 16:50:55|85ms|('anal_log.py 20150102',)|SUCC
+P9964|2016-02-19 17:11:45|95ms|('anal_log.py 20160215',)|SUCC
+P6980|2016-02-19 17:11:56|87ms|('anal_log.py 20160215',)|SUCC
